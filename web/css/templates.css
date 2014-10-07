@@ -1,0 +1,18 @@
+body {
+  padding-top: 50px;
+}
+.template {
+  padding: 40px 15px;
+}
+
+div.error{
+    color:red;
+}
+
+input.error{
+    background-color: lightcoral;
+}
+
+dd {
+    margin-left: 25px;
+}
