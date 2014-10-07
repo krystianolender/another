@@ -1,5 +1,5 @@
 Another to framework PHP.
-Jest to framework PHP. Tworzyłem go jakiś czas temu jako forma sprawdzenia swojej umiejętności w programowaniu obiektowym i chęci sprawdzenia różnych rozwiązań programistycznych jakie mogą mieć zastosowanie w tego typu aplikacjach. By nie przedłużać, bo kod w takich sytuacja mówi sam za siebie wymienię tylko najważniejsze cechy prezentowanego projektu:
+Tworzyłem go jakiś czas temu jako forma sprawdzenia swojej umiejętności w programowaniu obiektowym i chęci sprawdzenia różnych rozwiązań programistycznych jakie mogą mieć zastosowanie w tego typu aplikacjach. By nie przedłużać, bo kod w takich sytuacja mówi sam za siebie wymienię tylko najważniejsze cechy prezentowanego projektu:
 - framework jest wyłącznie mojego autorstwa
 - tworzyłem go z wykorzystaniem zasady "czarnej skrzynki" wzorując się jedynie na innych frameworkach w kwestiach interfejsu i nazewnictwa niektórych klas (trudno by było inaczej, jeśli programowałem już w CakePHP i Zend Framework - niektóre rozwiązania wtedy wydają się oczywiste i przejrzyste)
 - framework w swoim założeniu miał być znacznie bardziej obiektowy dla klienta końcowego niż CakePHP (co jest moim głównym zarzutem do tego frameworka)
